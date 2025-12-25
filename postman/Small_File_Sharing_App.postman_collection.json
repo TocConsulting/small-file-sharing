@@ -171,7 +171,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"share_with\": [\"tarek@cloudinit.fr\", \"tarek@lostinmac.com\"]\n}",
+					"raw": "{\n    \"share_with\": [\"tarek@tocconsulting.fr\", \"tarek@lostinmac.com\"]\n}",
 					"options": {
 						"raw": {
 							"language": "json"

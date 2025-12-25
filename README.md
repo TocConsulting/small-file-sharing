@@ -43,7 +43,7 @@
 ### Prerequisites
 
 - AWS Account with appropriate permissions
-- [CognitoApi](https://github.com/CloudinitFrance/cognito-api/) installed and configured
+- [CognitoApi](https://github.com/TocConsulting/cognito-api/) installed and configured
 - Python 3.8+ for local development
 - AWS CLI configured
 
@@ -51,14 +51,14 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/CloudinitFrance/small-file-sharing.git
+   git clone https://github.com/TocConsulting/small-file-sharing.git
    cd small-file-sharing
    ```
 
 2. **Deploy CognitoApi** (if not already done)
    ```bash
    # Follow the CognitoApi installation guide
-   # https://github.com/CloudinitFrance/cognito-api#installation
+   # https://github.com/TocConsulting/cognito-api#installation
    ```
 
 3. **Create AWS Resources**
@@ -156,14 +156,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/CloudinitFrance/small-file-sharing/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TocConsulting/small-file-sharing/blob/main/LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Tarek CHEIKH**
-- GitHub: [@CloudinitFrance](https://github.com/CloudinitFrance)
+- GitHub: [@TocConsulting](https://github.com/TocConsulting)
 - LinkedIn: [Tarek CHEIKH](https://fr.linkedin.com/in/tarekouldcheikh)
-- Website: [cloudinit.fr](https://cloudinit.fr)
+- Website: [tocconsulting.fr](https://tocconsulting.fr)
 
 ---
 
